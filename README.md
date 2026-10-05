@@ -10,10 +10,9 @@
 
 </div>
 
-## ✨ About Me
+## About Me
 
 - 🎓 Final-year **B.Tech Computer Science** student at Mody University of Science and Technology, with a **CGPA of 8.04/10**
-- 💼 Completed a software development internship at **Acord Engineering**, contributing React frontend components, Node.js and Express REST APIs, SQL data operations, debugging, API testing, and Git-based collaboration
 - 🧠 Built a foundation in **Java, Python, SQL, Data Structures & Algorithms, Object-Oriented Programming, DBMS, and Computer Networks**
 - 🤖 Interested in **artificial intelligence, machine learning, backend systems, and practical web applications**
 - 🧭 Technical Team Coordinator at **Enginium**, where I coordinated the technical team and published **two technical articles** in the university's annual magazine

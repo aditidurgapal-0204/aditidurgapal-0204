@@ -31,7 +31,7 @@
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <a href="https://www.linkedin.com/in/aditi-durgapal-02428826a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
 <a href="https://protf-theta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>

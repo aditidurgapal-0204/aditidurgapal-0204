@@ -1,78 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8250df&height=185&section=header&text=Aditi%20Durgapal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Interested%20in%20AI%2FML%20%26%20Software%20Technology&descAlignY=57&descSize=16" alt="Aditi Durgapal" width="100%" />
+# Hi, I'm Aditi Durgapal 👋
 
-<a href="https://www.linkedin.com/in/aditi-durgapal-02428826a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://protf-theta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:aditidurgapalformal@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+**Computer Science Student | Interested in AI, Software, and Technology**
+
+[LinkedIn](https://www.linkedin.com/in/aditi-durgapal-02428826a/) · [Portfolio](https://protf-theta.vercel.app/) · [Email](mailto:aditidurgapalformal@gmail.com)
 
 </div>
+
+---
 
 ## About Me
 
-I’m passionate about technology and enjoy learning more about **AI/ML**, software development, backend systems, and full-stack applications. I’m always open to exploring new ideas and growing through hands-on projects.
+I am a final-year Computer Science student with an interest in practical software and AI-powered applications. Through academic projects and a software development internship, I have gained hands-on experience with web applications, REST APIs, databases, and problem-solving with Java, Python, and SQL.
 
-- Completed project: [**AI Placement Mentor**](https://github.com/aditidurgapal-0204/AI-Placement-Mentor)
-- Interested in: AI-powered products and practical software projects
-- Currently: learning, exploring, and building my knowledge
+I enjoy learning by building, exploring new technologies, and turning ideas into useful solutions. I am currently focused on strengthening my foundations and growing through meaningful opportunities.
 
-## Featured Project
+## Areas of Interest
 
-<table>
-  <tr>
-    <td width="64" align="center">🤖</td>
-    <td>
-      <h3><a href="https://github.com/aditidurgapal-0204/AI-Placement-Mentor">AI Placement Mentor</a></h3>
-      <p>An AI-powered placement-preparation platform that combines deterministic readiness analysis with controlled Gemini-powered experiences. It provides personalized preparation roadmaps, resume feedback, and mock interviews grounded in a student's profile and resume evidence.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=5FA04E" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-        <img src="https://img.shields.io/badge/Google%20Gemini-111827?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Google Gemini" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-## Technology Used in My Work
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,tailwind,postgres,prisma,git,github&theme=dark" alt="JavaScript, TypeScript, Python, React, Next.js, Node.js, Express, Tailwind CSS, PostgreSQL, Prisma, Git, GitHub" />
-
-</div>
-
-<details>
-<summary><b>Project technologies</b></summary>
-<br />
-
-| Area | Technologies used in AI Placement Mentor |
-| --- | --- |
-| Frontend | Next.js, React, TypeScript, Tailwind CSS, Zustand |
-| Backend | Node.js, Express, JavaScript, REST APIs |
-| Data | PostgreSQL, Neon, Prisma ORM |
-| AI | Google Gemini API with validated, structured output |
-| Deployment | Vercel, Render |
-
-</details>
+- Artificial Intelligence and machine learning
+- Web applications and backend systems
+- Problem solving and core computer science
 
 ## Connect
 
-<div align="center">
-
-<a href="https://protf-theta.vercel.app/">Portfolio</a>
-&nbsp;•&nbsp;
-<a href="https://www.linkedin.com/in/aditi-durgapal-02428826a/">LinkedIn</a>
-&nbsp;•&nbsp;
-<a href="mailto:aditidurgapalformal@gmail.com">aditidurgapalformal@gmail.com</a>
-
-</div>
-
-<br />
-
-<div align="center">
-  <sub>Thanks for visiting — feel free to explore my work or get in touch.</sub>
-</div>
+- LinkedIn: [aditi-durgapal-02428826a](https://www.linkedin.com/in/aditi-durgapal-02428826a/)
+- Portfolio: [protf-theta.vercel.app](https://protf-theta.vercel.app/)
+- Email: [aditidurgapalformal@gmail.com](mailto:aditidurgapalformal@gmail.com)

@@ -1,29 +1,51 @@
 <div align="center">
 
-# Hi, I'm Aditi Durgapal 👋
+<h1>Hi, I'm Aditi Durgapal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Wave" /></h1>
 
-**Computer Science Student | Interested in AI, Software, and Technology**
+<p>
+  <img src="https://img.shields.io/badge/Computer%20Science%20Student-1f6feb?style=for-the-badge&logo=academia&logoColor=white" alt="Computer Science Student" />
+  <img src="https://img.shields.io/badge/AI%20%26%20Technology-8250df?style=for-the-badge&logo=googlegemini&logoColor=white" alt="AI and Technology" />
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/aditi-durgapal-02428826a/) · [Portfolio](https://protf-theta.vercel.app/) · [Email](mailto:aditidurgapalformal@gmail.com)
+<a href="https://www.linkedin.com/in/aditi-durgapal-02428826a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://protf-theta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:aditidurgapalformal@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
----
+<br />
 
-## About Me
+## ✨ About Me
 
-I am a final-year Computer Science student with an interest in practical software and AI-powered applications. Through academic projects and a software development internship, I have gained hands-on experience with web applications, REST APIs, databases, and problem-solving with Java, Python, and SQL.
+> A final-year Computer Science student who enjoys learning, exploring technology, and turning ideas into practical solutions.
 
-I enjoy learning by building, exploring new technologies, and turning ideas into useful solutions. I am currently focused on strengthening my foundations and growing through meaningful opportunities.
+I have gained hands-on experience through academic work and a software development internship, with exposure to web applications, REST APIs, databases, and problem-solving. I am interested in artificial intelligence, software, and the technology behind useful digital products.
 
-## Areas of Interest
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌱 Currently Growing</h3>
+      <p>Strengthening my computer science foundations and learning through meaningful work.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💡 Interested In</h3>
+      <p>Artificial intelligence, web applications, backend systems, and practical technology.</p>
+    </td>
+  </tr>
+</table>
 
-- Artificial Intelligence and machine learning
-- Web applications and backend systems
-- Problem solving and core computer science
+## 🧩 Skills & Tools
 
-## Connect
+<div align="center">
 
-- LinkedIn: [aditi-durgapal-02428826a](https://www.linkedin.com/in/aditi-durgapal-02428826a/)
-- Portfolio: [protf-theta.vercel.app](https://protf-theta.vercel.app/)
-- Email: [aditidurgapalformal@gmail.com](mailto:aditidurgapalformal@gmail.com)
+<img src="https://skillicons.dev/icons?i=java,python,postgres,js,react,nodejs,express,flask,git,github,postman&theme=dark" alt="Java, Python, PostgreSQL, JavaScript, React, Node.js, Express, Flask, Git, GitHub, Postman" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<sub>Always open to learning, connecting, and exploring thoughtful ideas.</sub>
+
+</div>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8250df&height=185&section=header&text=Aditi%20Durgapal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%7C%20Software%20Development%20%7C%20Backend%20%7C%20Full%20Stack&descAlignY=57&descSize=16" alt="Aditi Durgapal" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8250df&height=185&section=header&text=Aditi%20Durgapal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Interested%20in%20AI%2FML%20%26%20Software%20Technology&descAlignY=57&descSize=16" alt="Aditi Durgapal" width="100%" />
 
 <a href="https://www.linkedin.com/in/aditi-durgapal-02428826a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://protf-theta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -10,11 +10,11 @@
 
 ## About Me
 
-I am a developer interested in building practical, thoughtful software at the intersection of **AI/ML**, **backend engineering**, and **full-stack development**. I enjoy turning structured data and real user needs into reliable applications.
+I’m passionate about technology and enjoy learning more about **AI/ML**, software development, backend systems, and full-stack applications. I’m always open to exploring new ideas and growing through hands-on projects.
 
-- Currently building: [**AI Placement Mentor**](https://github.com/aditidurgapal-0204/AI-Placement-Mentor)
-- Exploring: AI-powered products, software development, backend systems, and full-stack applications
-- Open to: learning, collaboration, and meaningful project conversations
+- Completed project: [**AI Placement Mentor**](https://github.com/aditidurgapal-0204/AI-Placement-Mentor)
+- Interested in: AI-powered products and practical software projects
+- Currently: learning, exploring, and building my knowledge
 
 ## Featured Project
 

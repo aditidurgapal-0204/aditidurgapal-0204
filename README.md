@@ -1,23 +1,28 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&amp;weight=700&amp;size=40&amp;pause=1000&amp;color=4DA6FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=600&amp;lines=Aditi+Durgapal" alt="Aditi Durgapal" />
+<img src="./aditi-durgapal-header.svg" alt="Aditi Durgapal - Computer Science Student and AI Technology Enthusiast" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=700&amp;lines=Computer+Science+Student+%7C+AI+%26+Technology+Enthusiast" alt="Computer Science Student and Technology Enthusiast" />
+<br />
+
+<a href="https://www.linkedin.com/in/aditi-durgapal-02428826a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+<a href="https://protf-theta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:aditidurgapalformal@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 
 </div>
 
-### </> About Me
+## ✨ About Me
 
-- 🎓 Final-year **Computer Science** student at Mody University of Science and Technology
-- 🌱 Interested in **AI, software, web applications, and practical technology**
-- 💼 Gained hands-on experience through academic work and a software development internship
-- 🧠 Strengthening foundations in **Data Structures & Algorithms, OOP, DBMS, and Computer Networks**
-- 📍 Ghaziabad, India
-- 📧 Reach me at [aditidurgapalformal@gmail.com](mailto:aditidurgapalformal@gmail.com)
+- 🎓 Final-year **B.Tech Computer Science** student at Mody University of Science and Technology, with a **CGPA of 8.04/10**
+- 💼 Completed a software development internship at **Acord Engineering**, contributing React frontend components, Node.js and Express REST APIs, SQL data operations, debugging, API testing, and Git-based collaboration
+- 🧠 Built a foundation in **Java, Python, SQL, Data Structures & Algorithms, Object-Oriented Programming, DBMS, and Computer Networks**
+- 🤖 Interested in **artificial intelligence, machine learning, backend systems, and practical web applications**
+- 🧭 Technical Team Coordinator at **Enginium**, where I coordinated the technical team and published **two technical articles** in the university's annual magazine
+- 🎤 Event Anchor for the Mody University Alumni Meet and Farewell Ceremony, engaging large audiences and managing stage proceedings
+- 📜 Certified in **AI in Cybersecurity**, **Internet of Things**, **Python Programming**, and **C Programming**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 **Languages**
 
@@ -52,7 +57,7 @@
 
 ---
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <a href="https://www.linkedin.com/in/aditi-durgapal-02428826a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
 <a href="https://protf-theta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
